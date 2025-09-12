@@ -1,0 +1,20 @@
+{
+  "name": "gossip_queens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielSantiagoV/Gossip_Queens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielSantiagoV/Gossip_Queens/issues"
+  },
+  "homepage": "https://github.com/DanielSantiagoV/Gossip_Queens#readme"
+}
