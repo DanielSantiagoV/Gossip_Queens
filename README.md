@@ -1033,7 +1033,7 @@ Este proyecto demuestra:
 
 ---
 ### Información de Contacto
-- **Desarrolladores**: Daniel Vinasco, Ricardo Palomino, Santiago Romero
+- **Desarrolladores**: Daniel Vinasco - Santiago Romero
 - **GitHub**: [@DanielSantiagoV](https://github.com/DanielSantiagoV)
 
 
